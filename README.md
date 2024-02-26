@@ -4,5 +4,5 @@
 - yeah but i realy try to get as much as stars as possible in one repository cuz its hard so pls support me by starring me
 - and a war is happening out there so pls support for them too
 
-----------!>
------------------
+bye
+--------------
