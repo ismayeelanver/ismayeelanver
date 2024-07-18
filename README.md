@@ -1,20 +1,13 @@
-<style>
-    .box {
-        background-color: green;
-        padding: 1rem;
-        border: 3px solid black;
-        width: 20%;
-        border-radius: 7px;
-    }
-</style>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alts="hi" width="30px" /> hey there
 
-<label class="box">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">
-    hi there
-</label>
-<br>
 
-<label class="box">
-    <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/uKCrc7PFxJ9Xyya7DR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ask-asking-questionmark-uKCrc7PFxJ9Xyya7DR">via GIPHY</a></p>
-    Who am i
-</label>
+## <p>You've Stopped looking for code to see my profile</p>
+
+##  <img src="https://cdn.pixabay.com/animation/2022/07/31/05/09/05-09-52-958_512.gif" alts="?" width="30px" /> Who am i
+
+
+## i am a
+- Rustacean <img src="https://cdn.dribbble.com/userupload/9476337/file/original-1edc0651eb26ad65c3ff32b423f134ab.gif" alt="crab" width="30px">
+- Intermediate Dev <img src="https://media.tenor.com/12PqnVHSuVQAAAAi/chuqui-chuquiluki.gif" alt="nerd" width="30px">
+- Human (Of course...) <img src="https://c.tenor.com/QJOxesycuHEAAAAC/tenor.gif" alt="nerd typing" width="30px">
+- Intermediate Game Dev <img src="https://c.tenor.com/Jk7BI_iNKKEAAAAC/tenor.gif" alt="game dev" width="30px">
